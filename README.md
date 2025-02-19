@@ -22,3 +22,7 @@ By using OPC, you agree to use it ethically and legally. You take full responsib
 ## But why use this?
 
 The first version of Rusthorn had significant flaws due to its design for intuitive use with curl. Issues like password interception and WAF detection required security improvements that ultimately made direct interaction via curl impractical. As a result, an interface was developed to abstract and secure communication.
+
+## Not working/Missing files
+
+Both this tool and Rusthorn are currently in development, stable and working versions will be marked via releases.
